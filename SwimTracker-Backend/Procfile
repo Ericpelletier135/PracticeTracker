@@ -1,0 +1,1 @@
+web: java -jar SwimTracker-Backend/build/libs/SwimTracker-Backend-0.0.1-SNAPSHOT.jar
