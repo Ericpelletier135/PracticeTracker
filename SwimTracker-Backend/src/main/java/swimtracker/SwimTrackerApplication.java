@@ -15,7 +15,7 @@ public class SwimTrackerApplication {
 
 	@RequestMapping("/")
   	public String greeting(){
-    		return "Hello world!";
+    		return "Penis!";
   	}
 
 }
